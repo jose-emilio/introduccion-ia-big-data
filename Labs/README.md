@@ -82,7 +82,7 @@ Dentro de cada carpeta `lab-N.N-nombre/` se puede encontrar, según el tipo de l
 
 - `enunciado.md` — instrucciones completas para el alumnado.
 - `notebook_*.ipynb` — notebook con el código ya escrito (cuando el laboratorio lo requiere).
-- Plantillas en Markdown (`plantilla-*.md`, `ficha-*.md`, `rubrica-evaluacion.md`) para las actividades sin código.
+- Plantillas en Markdown (`plantilla-*.md`, `ficha-*.md`) para las actividades sin código.
 - El o los datasets necesarios, ya copiados dentro de la propia carpeta.
 
 ---
