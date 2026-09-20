@@ -76,7 +76,7 @@ El modelo guardado en `modelo_fraude.joblib` es la pieza de partida del laborato
 <a id="solucion-propuesta"></a>
 ## Solución propuesta
 
-*Intenta resolver primero la actividad por tu cuenta. Lo que sigue es la solución de referencia, útil para autocorregirte o para que el profesorado valide el trabajo de los grupos.*
+*Intenta resolver primero la actividad por tu cuenta. Lo que sigue es la solución de referencia, útil para autocorregirte.*
 
 Resultados reales al ejecutar `notebook_3.4.ipynb` de principio a fin sobre `fraude_transacciones.csv` (6.000 transacciones, 1,67% de fraude — 100 de 5.900 no-fraude). Split 60/20/20 estratificado: train 3.600 filas, validación 1.200, test 1.200, manteniendo el 1,67% de fraude en los tres conjuntos.
 

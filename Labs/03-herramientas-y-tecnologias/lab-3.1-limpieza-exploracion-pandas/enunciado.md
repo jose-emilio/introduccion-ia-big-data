@@ -80,7 +80,7 @@ El notebook ejecutado de principio a fin, con las transformaciones aplicadas y *
 <a id="solucion-propuesta"></a>
 ## Solución propuesta
 
-*Intenta resolver primero la actividad por tu cuenta. Lo que sigue es la solución de referencia, útil para autocorregirte o para que el profesorado valide el trabajo de los grupos.*
+*Intenta resolver primero la actividad por tu cuenta. Lo que sigue es la solución de referencia, útil para autocorregirte.*
 
 Resultados obtenidos al ejecutar `notebook_3.1.ipynb` de principio a fin sobre `tienda_online_ventas.csv` (12.000 filas, 15 columnas):
 

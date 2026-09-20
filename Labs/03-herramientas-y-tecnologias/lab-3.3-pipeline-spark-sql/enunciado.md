@@ -74,7 +74,7 @@ Este laboratorio cierra el bloque de herramientas de procesamiento de datos del 
 <a id="solucion-propuesta"></a>
 ## Solución propuesta
 
-*Intenta resolver primero la actividad por tu cuenta. Lo que sigue es la solución de referencia, útil para autocorregirte o para que el profesorado valide el trabajo de los grupos.*
+*Intenta resolver primero la actividad por tu cuenta. Lo que sigue es la solución de referencia, útil para autocorregirte.*
 
 Este notebook requiere Google Colab con conexión a internet (instala PySpark con `!pip install pyspark`), así que no se ha podido ejecutar en este entorno sin red. Sin embargo, cada una de sus consultas Spark SQL ya estaba verificada dentro del propio `notebook_3.3.ipynb` contra el cálculo equivalente en pandas sobre `tienda_online_ventas.csv`; esos mismos números se han recalculado aquí de nuevo con pandas para confirmarlos, y coinciden exactamente con los que obtendréis al ejecutar el notebook en Colab:
 

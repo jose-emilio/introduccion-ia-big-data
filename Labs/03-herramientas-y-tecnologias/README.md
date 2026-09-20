@@ -27,7 +27,7 @@ Siete laboratorios prácticos que recorren el stack tecnológico completo del m�
 - **3.1 → 3.2 → 3.3**: el mismo dataset de ventas de una tienda online (`tienda_online_ventas.csv`, o su versión normalizada en `tienda.db`) se analiza sucesivamente con pandas, SQL y Spark SQL, para comparar sintaxis y paradigmas sobre las mismas preguntas de negocio.
 - **3.4 → 3.6**: el laboratorio 3.4 entrena y guarda `modelo_fraude.joblib`; el laboratorio 3.6 despliega ese mismo modelo como un mini-servicio web con Gradio. Es necesario completar 3.4 antes de 3.6.
 - **3.5**: laboratorio independiente (sin código), sobre el mismo dataset de ventas que 3.1/3.3, centrado en visualización y BI.
-- **3.7 (integrador)**: cierre del módulo, reutiliza la metodología de 3.1 (EDA) y 3.4 (modelado y evaluación) sobre un nuevo caso de negocio (churn de clientes de telecomunicaciones). Puede usarse como evaluación final del curso completo.
+- **3.7 (integrador)**: cierre del módulo, reutiliza la metodología de 3.1 (EDA) y 3.4 (modelado y evaluación) sobre un nuevo caso de negocio (churn de clientes de telecomunicaciones).
 
 <a id="bloques-del-temario-cubiertos"></a>
 ## Bloques del temario cubiertos

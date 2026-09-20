@@ -96,7 +96,7 @@ El notebook `notebook_1.2.ipynb` ejecutado de principio a fin (todas las celdas 
 <a id="solucion-propuesta"></a>
 ## Solución propuesta
 
-*Intenta resolver primero la actividad por tu cuenta. Lo que sigue es la solución de referencia, útil para autocorregirte o para que el profesorado valide el trabajo de los grupos.*
+*Intenta resolver primero la actividad por tu cuenta. Lo que sigue es la solución de referencia, útil para autocorregirte.*
 
 El propio `notebook_1.2.ipynb` ya contiene el código completo y es, por tanto, la parte principal de la solución: no hay nada que "programar" aparte. Esta sección resume los **resultados esperados** al ejecutarlo (obtenidos ejecutando el notebook de verdad, con semilla fija `SEMILLA = 42`, por lo que deberías obtener exactamente los mismos números) y cómo interpretarlos, para que puedas comparar tu ejecución con la de referencia.
 

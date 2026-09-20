@@ -10,7 +10,6 @@
 - [Actividades paso a paso](#actividades-paso-a-paso)
   - [Fase 1 — Trabajo individual o en parejas (25–35 min)](#fase-1-trabajo-individual-o-en-parejas-2535-min)
   - [Fase 2 — Puesta en común en grupo grande (25–40 min)](#fase-2-puesta-en-comun-en-grupo-grande-2540-min)
-  - [Rol del facilitador](#rol-del-facilitador)
 - [Entregable](#entregable)
 - [Preguntas de reflexión (cierre, 5-10 min)](#preguntas-de-reflexion-cierre-5-10-min)
 - [Solución propuesta](#solucion-propuesta)
@@ -49,7 +48,7 @@ El propósito de este laboratorio no es memorizar las definiciones, sino entrena
 <a id="fase-1-trabajo-individual-o-en-parejas-2535-min"></a>
 ### Fase 1 — Trabajo individual o en parejas (25–35 min)
 
-1. El facilitador entrega o proyecta la lista de 12 sistemas de `plantilla-clasificacion.md`.
+1. Recibirás la lista de 12 sistemas de `plantilla-clasificacion.md`.
 2. Cada alumno (o pareja) copia la tabla de esa plantilla a su propio documento o folio.
 3. Para cada uno de los 12 sistemas, rellena las tres columnas de clasificación:
    - **Alcance**: ANI / AGI / ASI.
@@ -62,21 +61,13 @@ Recomendación de ritmo: no dediques más de 2-3 minutos por sistema. El objetiv
 <a id="fase-2-puesta-en-comun-en-grupo-grande-2540-min"></a>
 ### Fase 2 — Puesta en común en grupo grande (25–40 min)
 
-5. El facilitador recoge, sistema por sistema, las clasificaciones de varias parejas y anota en la pizarra los casos donde ha habido discrepancia.
+5. Se recogen, sistema por sistema, las clasificaciones de varias parejas y se anotan en la pizarra los casos donde ha habido discrepancia.
 6. Se abre un debate dirigido sobre los 3-4 casos más discutidos del grupo. Casos típicos que generan desacuerdo:
    - **ChatGPT / un LLM conversacional**: ¿es "solo" IA basada en datos, o cuando usa herramientas (búsqueda web, ejecución de código) empieza a comportarse como un sistema híbrido? (Conecta con el apunte, en el bloque "IA basada en herramientas", que se verá en detalle en el bloque 3 — aquí basta con introducir la idea).
    - **Un sistema experto de diagnóstico médico basado en reglas**: por qué sigue siendo relevante hoy pese a no usar ML (auditabilidad, determinismo, dominios regulados).
    - **Un coche con conducción autónoma de nivel 2**: por qué NO es AGI aunque combine visión, planificación y control — sigue siendo una tarea (conducir) por especializada que sea.
    - **AlphaFold**: por qué es ANI extremadamente potente en su dominio (predicción de estructura de proteínas) y no un ejemplo de AGI, aunque su rendimiento supere ampliamente a los expertos humanos en esa tarea concreta.
-7. Cierre: el facilitador resume la idea clave del bloque — "ningún sistema real de hoy es AGI ni IA fuerte; la potencia observable de un sistema en su tarea no debe confundirse con inteligencia general" (ver el apunte, "El comportamiento inteligente no implica inteligencia general").
-
-<a id="rol-del-facilitador"></a>
-### Rol del facilitador
-
-- Antes de la sesión: revisar `notas-para-el-facilitador.md`, que contiene una clasificación de referencia razonada para los 12 sistemas — úsala para validar respuestas y para preparar las preguntas del debate, pero no la repartas al alumnado antes de la puesta en común.
-- Durante la fase 1: circular entre las parejas, sin dar la respuesta directamente; si preguntan por un caso dudoso, devolver la pregunta ("¿qué parte del apunte te ayudaría a decidir esto?").
-- Durante la fase 2: priorizar el tiempo en los casos donde de verdad hay desacuerdo en el aula, aunque no coincidan exactamente con los sugeridos arriba — el valor pedagógico está en la discusión, no en la lista cerrada.
-- Gestión del tiempo: si el grupo es grande (más de 15 parejas), seleccionar solo 3-4 sistemas para la puesta en común en lugar de repasar los 12 uno a uno.
+7. Cierre: la idea clave del bloque es que "ningún sistema real de hoy es AGI ni IA fuerte; la potencia observable de un sistema en su tarea no debe confundirse con inteligencia general" (ver el apunte, "El comportamiento inteligente no implica inteligencia general").
 
 <a id="entregable"></a>
 ## Entregable
@@ -93,7 +84,7 @@ La tabla de `plantilla-clasificacion.md` completada por cada alumno o pareja, co
 <a id="solucion-propuesta"></a>
 ## Solución propuesta
 
-*Intenta resolver primero la actividad por tu cuenta. Lo que sigue es la solución de referencia, útil para autocorregirte o para que el profesorado valide el trabajo de los grupos.*
+*Intenta resolver primero la actividad por tu cuenta. Lo que sigue es la solución de referencia, útil para autocorregirte.*
 
 Esta clasificación es razonada, no dogmática: en varios de los 12 casos una respuesta alternativa también es defendible si se justifica bien. El valor pedagógico está en la justificación, no en acertar la etiqueta exacta (ver los casos marcados como "con matices" o "de debate" más abajo).
 
@@ -116,7 +107,7 @@ Esta clasificación es razonada, no dogmática: en varios de los 12 casos una re
 
 **Errores frecuentes a corregir**: confundir "alcance" con "naturaleza" (pensar que un sistema muy potente como AlphaFold es automáticamente "IA fuerte" — todo sistema real de hoy es IA débil, sin excepción); etiquetar cualquier sistema con reglas visibles como puramente simbólico sin considerar que pueda tener un componente de ML por debajo; y usar "AGI" de forma coloquial para referirse a "un sistema muy bueno".
 
-Esta tabla es un resumen adaptado de `notas-para-el-facilitador.md`, que el profesorado puede seguir consultando como guía completa para el debate (incluye además orientaciones de ritmo y gestión del tiempo de la sesión).
+
 
 
 ---

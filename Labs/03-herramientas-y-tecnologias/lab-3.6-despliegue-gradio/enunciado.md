@@ -125,7 +125,7 @@ El enlace público a vuestro modelo desplegado — el `https://xxxxx.gradio.live
 <a id="solucion-propuesta"></a>
 ## Solución propuesta
 
-*Intenta resolver primero la actividad por tu cuenta. Lo que sigue es la solución de referencia, útil para autocorregirte o para que el profesorado valide el trabajo de los grupos.*
+*Intenta resolver primero la actividad por tu cuenta. Lo que sigue es la solución de referencia, útil para autocorregirte.*
 
 `gradio` no está instalado en este entorno, así que `app.py` no se ha podido ejecutar como servidor web aquí. En su lugar se ha verificado directamente el pipeline que `app.py` expone: se cargó `modelo_fraude.joblib` con `joblib.load(...)` y se reconstruyeron con pandas los tres ejemplos precargados exactamente como los define `examples=[...]` en `app.py`, para confirmar que el servicio funcionaría igual una vez publicado. El `demo.launch(share=True)` con el que termina `app.py` da, al ejecutarlo con Python y gradio instalados, el enlace público `gradio.live` que constituye el entregable de este laboratorio, sin depender de Hugging Face.
 

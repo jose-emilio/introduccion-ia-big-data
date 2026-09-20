@@ -135,7 +135,7 @@ Una ficha de diagnóstico de una página (el fichero `ficha-diagnostico-plantill
 <a id="solucion-propuesta"></a>
 ## Solución propuesta
 
-*Intenta resolver primero la actividad por tu cuenta. Lo que sigue es la solución de referencia, útil para autocorregirte o para que el profesorado valide el trabajo de los grupos.*
+*Intenta resolver primero la actividad por tu cuenta. Lo que sigue es la solución de referencia, útil para autocorregirte.*
 
 A continuación se muestra una ficha de diagnóstico modelo, completada con los datos reales obtenidos al ejecutar `notebook_2.1_apoyo_pandas.ipynb` sobre `tienda_online_ventas.csv`. En Velocidad y Valor hay razonamiento de negocio con más de una respuesta razonable — esta es una, no la única — pero sirve como referencia del nivel de detalle y precisión esperado.
 

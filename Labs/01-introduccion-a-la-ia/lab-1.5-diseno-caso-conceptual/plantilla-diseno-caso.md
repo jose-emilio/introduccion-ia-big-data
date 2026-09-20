@@ -2,7 +2,7 @@
 
 **Grupo**: _______________________  **Integrantes**: _______________________________________
 
-**Sector elegido**: _______________________  **Problema de negocio** (de la lista propuesta, o propio, validado con el facilitador):
+**Sector elegido**: _______________________  **Problema de negocio** (de la lista propuesta, o propio, validado con el profesor/a):
 
 _______________________________________________________________________________
 

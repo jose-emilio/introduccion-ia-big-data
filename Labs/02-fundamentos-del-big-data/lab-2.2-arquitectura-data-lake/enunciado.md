@@ -126,9 +126,9 @@ Un diagrama de arquitectura (Draw.io, Excalidraw, foto de un dibujo en papel, o 
 <a id="solucion-propuesta"></a>
 ## Solución propuesta
 
-*Intenta resolver primero la actividad por tu cuenta. Lo que sigue es la solución de referencia, útil para autocorregirte o para que el profesorado valide el trabajo de los grupos.*
+*Intenta resolver primero la actividad por tu cuenta. Lo que sigue es la solución de referencia, útil para autocorregirte.*
 
-No hay una única solución correcta para RetailCorp — esta es la propuesta de referencia que usa el profesorado para evaluar, razonada con los mismos criterios (latencia, volumen, variedad de formato, coste operativo) que se pide aplicar en el laboratorio. Una respuesta distinta y bien argumentada es igual de válida.
+No hay una única solución correcta para RetailCorp — esta es la propuesta de referencia, razonada con los mismos criterios (latencia, volumen, variedad de formato, coste operativo) que se pide aplicar en el laboratorio. Una respuesta distinta y bien argumentada es igual de válida.
 
 <a id="fuente-1-ventas-pos"></a>
 ### Fuente 1 — Ventas POS

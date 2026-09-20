@@ -107,7 +107,7 @@ El dashboard publicado (enlace) o exportado a PDF/imagen, acompañado de una not
 <a id="solucion-propuesta"></a>
 ## Solución propuesta
 
-*Intenta resolver primero la actividad por tu cuenta. Lo que sigue es la solución de referencia, útil para autocorregirte o para que el profesorado valide el trabajo de los grupos.*
+*Intenta resolver primero la actividad por tu cuenta. Lo que sigue es la solución de referencia, útil para autocorregirte.*
 
 Este laboratorio se resuelve con una herramienta de BI externa (Power BI / Looker Studio) sin código, así que no existe un dashboard real adjunto en esta carpeta. Para poder dar una solución con datos reales en vez de una descripción genérica, se ha calculado con pandas sobre `tienda_online_ventas.csv` exactamente lo que cada uno de los gráficos de [`preguntas-de-negocio-y-graficos.md`](./preguntas-de-negocio-y-graficos.md) mostraría en un dashboard bien construido:
 

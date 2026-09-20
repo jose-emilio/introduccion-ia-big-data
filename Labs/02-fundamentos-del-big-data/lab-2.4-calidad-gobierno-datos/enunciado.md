@@ -113,7 +113,7 @@ Tres ficheros: el dataset limpio (`tienda_online_ventas_limpio.csv`, generado po
 <a id="solucion-propuesta"></a>
 ## Solución propuesta
 
-*Intenta resolver primero la actividad por tu cuenta. Lo que sigue es la solución de referencia, útil para autocorregirte o para que el profesorado valide el trabajo de los grupos.*
+*Intenta resolver primero la actividad por tu cuenta. Lo que sigue es la solución de referencia, útil para autocorregirte.*
 
 Estas son las cifras reales obtenidas al ejecutar `notebook_2.4_apoyo_pandas.ipynb` sobre `tienda_online_ventas_dirty.csv` (12.360 filas iniciales, 15 columnas).
 

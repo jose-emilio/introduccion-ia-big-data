@@ -69,12 +69,12 @@ El notebook completo ejecutado de principio a fin, más una presentación breve 
 <a id="cierre"></a>
 ## Cierre
 
-Este laboratorio integra el ciclo completo visto en el Módulo 3: Python/pandas para explorar y limpiar (bloque 1), SQL como alternativa para consultar datos estructurados (bloque 2), Spark SQL para cuando la escala lo exige (bloque 3), scikit-learn para modelar y evaluar con rigor (bloque 4), y principios de comunicación visual para que el resultado llegue a quien toma las decisiones (bloque 5) — cerrando con el paso a producción y sus implicaciones de negocio (bloques 6 y 7). Puede usarse como **evaluación final del curso completo**, dado que recorre de principio a fin las competencias trabajadas en los seis laboratorios anteriores.
+Este laboratorio integra el ciclo completo visto en el Módulo 3: Python/pandas para explorar y limpiar (bloque 1), SQL como alternativa para consultar datos estructurados (bloque 2), Spark SQL para cuando la escala lo exige (bloque 3), scikit-learn para modelar y evaluar con rigor (bloque 4), y principios de comunicación visual para que el resultado llegue a quien toma las decisiones (bloque 5) — cerrando con el paso a producción y sus implicaciones de negocio (bloques 6 y 7).
 
 <a id="solucion-propuesta"></a>
 ## Solución propuesta
 
-*Intenta resolver primero la actividad por tu cuenta. Lo que sigue es la solución de referencia, útil para autocorregirte o para que el profesorado valide el trabajo de los grupos.*
+*Intenta resolver primero la actividad por tu cuenta. Lo que sigue es la solución de referencia, útil para autocorregirte.*
 
 Resultados reales al ejecutar `notebook_3.7.ipynb` de principio a fin sobre `churn_telecom.csv` (4.200 clientes, sin valores nulos, tasa de churn global del 20,4% — 855 clientes con `churn=1` de 4.200).
 

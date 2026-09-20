@@ -78,7 +78,7 @@ Todo el grupo trabaja sobre la misma tarea: **clasificar 5 reseñas de clientes 
 
 6. Rellena la fila de "valoración comparativa" al final de `plantilla-registro-respuestas.md`: ¿qué variante dio el mejor resultado? ¿en qué variante cambió la clasificación de la reseña ambigua?
 7. Si trabajas en pareja, compara tus resultados con los de otra pareja que haya usado un LLM distinto (por ejemplo, tú con ChatGPT y ellos con Claude): ¿el patrón de mejora entre variantes es parecido, aunque el modelo sea distinto?
-8. Puesta en común en grupo grande: el facilitador recoge en la pizarra qué variante funcionó mejor para cada pareja y abre un debate corto sobre por qué el formato estructurado (variante 5) suele ser más útil cuando el resultado se va a usar en otro sistema (por ejemplo, para automatizar la extracción de motivos de reseñas a escala).
+8. Puesta en común en grupo grande: se recogen en la pizarra qué variante funcionó mejor para cada pareja y se abre un debate corto sobre por qué el formato estructurado (variante 5) suele ser más útil cuando el resultado se va a usar en otro sistema (por ejemplo, para automatizar la extracción de motivos de reseñas a escala).
 
 <a id="entregable"></a>
 ## Entregable
@@ -95,7 +95,7 @@ Todo el grupo trabaja sobre la misma tarea: **clasificar 5 reseñas de clientes 
 <a id="solucion-propuesta"></a>
 ## Solución propuesta
 
-*Intenta resolver primero la actividad por tu cuenta. Lo que sigue es la solución de referencia, útil para autocorregirte o para que el profesorado valide el trabajo de los grupos.*
+*Intenta resolver primero la actividad por tu cuenta. Lo que sigue es la solución de referencia, útil para autocorregirte.*
 
 La respuesta exacta de un LLM real varía cada vez que se ejecuta el prompt (y entre modelos), así que no existe una única "respuesta correcta" que copiar. Lo que sigue es un ejemplo plausible y representativo de cómo suele evolucionar la respuesta de un LLM conversacional típico a medida que el prompt se enriquece de la variante 1 a la 5 — útil para comparar el *patrón* de mejora, no para verificar literalmente cada palabra.
 

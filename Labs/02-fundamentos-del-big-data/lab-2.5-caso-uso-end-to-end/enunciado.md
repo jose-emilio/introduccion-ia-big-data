@@ -98,12 +98,12 @@ Un diagrama de arquitectura completo del caso elegido (fuentes → ingestión �
 <a id="cierre-de-modulo"></a>
 ## Cierre de módulo
 
-Este laboratorio cierra el módulo 2. Si el grupo docente lo decide, puede usarse como entrega evaluable de cierre — consultad `rubrica-evaluacion.md` para conocer los criterios. El módulo 3 retoma exactamente esta arquitectura para profundizar en las herramientas concretas (Python, SQL, Spark, Kafka, dbt, plataformas cloud) que la hacen posible.
+Este laboratorio cierra el módulo 2. El módulo 3 retoma exactamente esta arquitectura para profundizar en las herramientas concretas (Python, SQL, Spark, Kafka, dbt, plataformas cloud) que la hacen posible.
 
 <a id="solucion-propuesta"></a>
 ## Solución propuesta
 
-*Intenta resolver primero la actividad por tu cuenta. Lo que sigue es la solución de referencia, útil para autocorregirte o para que el profesorado valide el trabajo de los grupos.*
+*Intenta resolver primero la actividad por tu cuenta. Lo que sigue es la solución de referencia, útil para autocorregirte.*
 
 Este es solo **un ejemplo posible**, desarrollado sobre el caso de **IoT industrial**, con el nivel de detalle que se espera en las seis etapas de `plantilla-diseno-arquitectura.md`. De los cinco casos de uso, cada grupo puede elegir cualquiera de los otros cuatro (fraude financiero, salud y genómica, retail, energía) — lo importante no es que el caso coincida con este, sino el nivel de concreción y de justificación de cada decisión.
 

@@ -95,7 +95,7 @@ Spark no sustituye a pandas ni a Sheets para datasets pequeños como este — de
 <a id="solucion-propuesta"></a>
 ## Solución propuesta
 
-*Intenta resolver primero la actividad por tu cuenta. Lo que sigue es la solución de referencia, útil para autocorregirte o para que el profesorado valide el trabajo de los grupos.*
+*Intenta resolver primero la actividad por tu cuenta. Lo que sigue es la solución de referencia, útil para autocorregirte.*
 
 Los resultados de cada transformación (verificados recalculándolos con pandas sobre el mismo `tienda_online_ventas.csv`, ya que deben coincidir exactamente con lo que produce PySpark sobre los mismos datos) son los siguientes.
 

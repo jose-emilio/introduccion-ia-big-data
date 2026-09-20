@@ -79,7 +79,7 @@ Un fichero (puede ser el propio `consultas-resueltas.sql` copiado y adaptado, o 
 <a id="solucion-propuesta"></a>
 ## Solución propuesta
 
-*Intenta resolver primero la actividad por tu cuenta. Lo que sigue es la solución de referencia, útil para autocorregirte o para que el profesorado valide el trabajo de los grupos.*
+*Intenta resolver primero la actividad por tu cuenta. Lo que sigue es la solución de referencia, útil para autocorregirte.*
 
 Las 10 consultas completas y comentadas están en [`consultas-resueltas.sql`](./consultas-resueltas.sql); ejecutadas de nuevo contra `tienda.db`, producen los siguientes resultados reales:
 

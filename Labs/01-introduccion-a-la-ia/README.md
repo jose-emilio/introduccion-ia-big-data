@@ -21,13 +21,13 @@ Este módulo incluye 5 laboratorios prácticos, alineados con los bloques temát
 <a id="resumen-de-cada-laboratorio"></a>
 ## Resumen de cada laboratorio
 
-**1.1 — Cartografía de la IA a tu alrededor.** Clasificar 12 sistemas de IA reales según tres taxonomías: alcance (ANI/AGI/ASI), naturaleza (débil/fuerte) y paradigma (simbólico/basado en datos/híbrido). Incluye `plantilla-clasificacion.md` para el alumnado y `notas-para-el-facilitador.md` con la clasificación de referencia.
+**1.1 — Cartografía de la IA a tu alrededor.** Clasificar 12 sistemas de IA reales según tres taxonomías: alcance (ANI/AGI/ASI), naturaleza (débil/fuerte) y paradigma (simbólico/basado en datos/híbrido). Incluye `plantilla-clasificacion.md` con la tabla de clasificación.
 
 **1.2 — Entrena tu primer modelo de Machine Learning.** Único laboratorio con notebook del módulo. Ciclo completo de aprendizaje supervisado (datos, features, entrenamiento, validación, inferencia) sobre el dataset "breast cancer" de scikit-learn, con experimentación guiada sobre `TEST_SIZE` y elección de algoritmo (árbol de decisión vs. regresión logística). Notebook verificado: se ejecuta de principio a fin sin errores.
 
 **1.3 — Ingeniería de prompts con un LLM.** Comparación de 5 variantes progresivas de prompt (directo, system prompt, few-shot, chain-of-thought, salida JSON estructurada) sobre una tarea fija de clasificación de reseñas de clientes. Incluye las 5 reseñas de ejemplo y el texto exacto de los 5 prompts, listos para copiar y pegar.
 
-**1.4 — Auditoría de sesgo y riesgo de un caso real.** Caso de estudio de la fintech ficticia "CrediFácil": el alumnado calcula la disparidad real de aprobación de crédito entre barrios a partir de [`caso_scoring_crediticio.csv`](lab-1.4-auditoria-sesgo/caso_scoring_crediticio.csv), identifica el tipo de sesgo (variable proxy), propone una métrica de fairness y clasifica el sistema según los niveles de riesgo del AI Act. Incluye `notas-para-el-facilitador.md` con la solución de referencia calculada sobre el CSV.
+**1.4 — Auditoría de sesgo y riesgo de un caso real.** Caso de estudio de la fintech ficticia "CrediFácil": el alumnado calcula la disparidad real de aprobación de crédito entre barrios a partir de [`caso_scoring_crediticio.csv`](lab-1.4-auditoria-sesgo/caso_scoring_crediticio.csv), identifica el tipo de sesgo (variable proxy), propone una métrica de fairness y clasifica el sistema según los niveles de riesgo del AI Act.
 
 **1.5 — Diseña un caso conceptual de IA (integrador).** Laboratorio de cierre del módulo: cada grupo diseña un caso de aplicación de IA completo para un sector a elección (con 8 problemas de negocio ya redactados como punto de partida), definiendo tipo de sistema, datos, modelo, riesgos y nivel de supervisión humana. Incluye rúbrica de evaluación para la presentación final.
 

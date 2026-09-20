@@ -53,7 +53,7 @@ Tu grupo va a diseñar un caso propio siguiendo esa misma estructura, pero para 
 <a id="fase-1-eleccion-del-caso-10-15-min"></a>
 ### Fase 1 — Elección del caso (10-15 min)
 
-1. Como grupo, elegid uno de los 8 problemas de negocio ya redactados en [`problemas-de-negocio-propuestos.md`](problemas-de-negocio-propuestos.md), o proponed uno propio si tenéis una idea clara (validadla brevemente con el facilitador antes de seguir, para aseguraros de que tiene suficiente sustancia para completar la plantilla).
+1. Como grupo, elegid uno de los 8 problemas de negocio ya redactados en [`problemas-de-negocio-propuestos.md`](problemas-de-negocio-propuestos.md), o proponed uno propio si tenéis una idea clara (validadla brevemente con el profesor/a antes de seguir, para aseguraros de que tiene suficiente sustancia para completar la plantilla).
 
 <a id="fase-2-diseno-del-caso-50-70-min"></a>
 ### Fase 2 — Diseño del caso (50-70 min)
@@ -91,7 +91,7 @@ Un póster o documento de una página con el diseño del caso (`plantilla-diseno
 <a id="solucion-propuesta"></a>
 ## Solución propuesta
 
-*Intenta resolver primero la actividad por tu cuenta. Lo que sigue es la solución de referencia, útil para autocorregirte o para que el profesorado valide el trabajo de los grupos.*
+*Intenta resolver primero la actividad por tu cuenta. Lo que sigue es la solución de referencia, útil para autocorregirte.*
 
 Esto es **solo un ejemplo posible de solución**, desarrollado sobre uno de los 8 problemas de negocio de `problemas-de-negocio-propuestos.md` (el problema 3, Industria — inspección visual de calidad), distinto del que elija cada grupo. Su objetivo es servir de modelo de la **profundidad y el nivel de detalle** esperado al rellenar `plantilla-diseno-caso.md`, no de "la única respuesta correcta": con cualquiera de los 8 problemas hay varios diseños razonables, siempre que cada decisión esté bien justificada con el vocabulario del módulo.
 
