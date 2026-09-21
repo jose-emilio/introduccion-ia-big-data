@@ -1,8 +1,4 @@
-# Apuntes del curso — IA y Big Data
-
-Transcripción fiel en Markdown de las tres presentaciones del curso, organizada por bloques temáticos para facilitar su lectura y consulta por parte del alumnado de forma autónoma, sin necesidad de las diapositivas originales (que el profesorado proyecta en clase).
-
-Además de estos apuntes, este repositorio incluye en [`Labs/`](Labs/) 17 laboratorios prácticos (uno por bloque temático, organizados en los mismos 3 módulos), cada uno con su `enunciado.md` y, cuando aplica, un notebook con el código ya escrito y verificado. Empezad por [`Labs/README.md`](Labs/README.md) para el índice completo.
+# Apuntes del curso — Introducción a la IA y Big Data
 
 <a id="modulo-1"></a>
 ## Módulo 1 — Introducción a la Inteligencia Artificial
