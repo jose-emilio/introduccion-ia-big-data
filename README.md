@@ -2,8 +2,6 @@
 
 Transcripción fiel en Markdown de las tres presentaciones del curso, organizada por bloques temáticos para facilitar su lectura y consulta por parte del alumnado de forma autónoma, sin necesidad de las diapositivas originales (que el profesorado proyecta en clase).
 
-Cuando un bloque incluye un diagrama cuyo texto no era recuperable como texto plano (infografías con el texto integrado en la imagen), el contenido se ha transcrito igualmente a mano y además se ha incrustado la imagen original junto a la transcripción, dentro de la carpeta `imagenes/` de cada módulo.
-
 Además de estos apuntes, este repositorio incluye en [`Labs/`](Labs/) 17 laboratorios prácticos (uno por bloque temático, organizados en los mismos 3 módulos), cada uno con su `enunciado.md` y, cuando aplica, un notebook con el código ya escrito y verificado. Empezad por [`Labs/README.md`](Labs/README.md) para el índice completo.
 
 <a id="modulo-1"></a>
