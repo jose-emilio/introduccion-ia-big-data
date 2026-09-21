@@ -47,12 +47,3 @@ _8 bloques temáticos · carpeta [`03-herramientas-y-tecnologias/`](03-herramien
 6. [BI y visualización](03-herramientas-y-tecnologias/05-bi-y-visualizacion.md) — principios de visualización, Power BI, Tableau
 7. [Cloud y MLOps](03-herramientas-y-tecnologias/06-cloud-y-mlops.md) — AWS, Azure, GCP, MLOps, LLMOps, seguridad de apps de IA
 8. [Casos conceptuales y cierre](03-herramientas-y-tecnologias/07-casos-conceptuales-y-cierre.md) — churn, telemetría, asistente GenAI, del prototipo a producción
-
----
-
-### Nota sobre fidelidad al contenido original
-
-Estos ficheros son una transcripción fiel de las presentaciones `.pptx` originales, no un resumen. El texto de cada bloque se ha reorganizado en prosa y listas legibles, pero sin omitir ni añadir información. Dos matices a tener en cuenta:
-
-- En `02-fundamentos-del-big-data/05-governance-y-calidad-de-datos.md` se han agrupado dos bloques de contenido no consecutivos del original porque tratan el mismo bloque temático declarado por la propia presentación (ver la nota al inicio de ese fichero).
-- En `03-herramientas-y-tecnologias/07-casos-conceptuales-y-cierre.md`, en el diagrama del asistente corporativo GenAI, el recuadro "LLM" tiene su texto ligeramente cortado por el borde de la imagen fuente ("...respuesta co[n] contexto..."); se ha completado la palabra por ser la única lectura coherente posible. Es un detalle menor del recurso gráfico original, no de esta transcripción.
